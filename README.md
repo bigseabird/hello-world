@@ -1,4 +1,4 @@
-# hello-world
+﻿# hello-world
 
 ## hello—github
 *to open a new window*
@@ -14,3 +14,6 @@
 [GitHub](http://github.com)
 
 
+# 4.1 Python IDE
+* [pycharm](http://www.jetbrains.com/pytharm)
+* [VIM](http://www.vim.org")
